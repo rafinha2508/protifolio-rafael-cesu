@@ -57,7 +57,7 @@ portfolio/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/rafinha2508/nome_do_repositorio.git
+   git clone https://github.com/rafinha2508/protifolio-rafael-cesu.git
    ```
 2. Entre na pasta do projeto.
 3. Abra o arquivo `index.html` no seu navegador. Pronto! 🎉
